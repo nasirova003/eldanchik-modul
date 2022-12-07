@@ -1,0 +1,32 @@
+@mixin between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin around {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+@mixin btn {
+  background: #F5F5F5;
+  width: 180px;
+  height: 45px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #080829;
+  border: 1px solid rgba(8, 8, 41, 0.2);
+  border-radius: 14px;
+}
+
+@mixin btn2 {
+  background: #3F53D8;
+  border-radius: 14px;
+  width: 165px;
+  height: 40px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 18px;
+  color: #FFFFFF;
+}

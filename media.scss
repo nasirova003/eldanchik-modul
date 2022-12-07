@@ -1,0 +1,495 @@
+@media (max-width: 1024px) {
+  #hero .hero {
+    flex-direction: column;
+  }
+  #block .block--img__img1 {
+    width: 12%;
+    height: 11%;
+  }
+  #hero .hero--tittle h1 {
+    width: 600px;
+  }
+  #block .block p {
+    padding: 30px 0 50px 150px;
+  }
+  #design .design--tittle p {
+    width: 300px;
+  }
+  #design .design--tittle h2 {
+    width: 200px;
+  }
+  #design .design--img {
+    width: 450px;
+  }
+  #design .design--tittle h3 {
+    width: 200px;
+  }
+  #easy .easy--img {
+    width: 550px;
+  }
+  #easy .easy--tittle p {
+    width: 260px;
+  }
+  #access .access--img {
+    width: 450px;
+  }
+  #access .access--tittle h1 {
+    font-size: 35px;
+    line-height: 45px;
+    width: 300px;
+  }
+  #tittle .tittle--word h1 {
+    font-size: 20px;
+  }
+  #tittle .tittle--word p {
+    width: 250px;
+  }
+  #about .about h1 {
+    font-size: 34px;
+    width: 600px;
+    padding: 150px 0 100px 130px;
+  }
+  #about .about--svg__star h2 {
+    font-size: 25px;
+    width: 700px;
+  }
+  #about .about {
+    padding: 10px 0 0 0;
+  }
+  #web .web--site__inter {
+    padding: 20px 50px;
+  }
+  #card .card h1 {
+    font-size: 33px;
+    padding: 150px 0 100px 250px;
+  }
+  #page .page--block h1 {
+    font-size: 40px;
+    width: 80%;
+  }
+
+
+}
+
+@media (max-width: 992px) {
+  #about .about--svg__star h2 {
+    width: 600px;
+  }
+  #about .about--svg__coma2 {
+    padding: 100px 0 0 0;
+  }
+  #disk .disk h3 {
+    font-size: 35px;
+    padding: 0 0 100px 220px;
+  }
+  #card .card--block__photo h2 {
+    font-size: 18px;
+    line-height: 30px;
+    width: 250px;
+    padding: 0 30px 0 0;
+  }
+  #card .card--block__photo--btn {
+    margin: 30px 170px 25px 0;
+  }
+
+}
+
+@media (max-width: 768px) {
+  #block .block--img__img1 {
+    width: 25%;
+  }
+  #block .block p {
+    width: 450px;
+  }
+  #icons .icons--icon {
+    padding: 0 0 150px 100px;
+  }
+  #design .design {
+    flex-direction: column;
+  }
+  #design .design--tittle p {
+    width: 400px;
+  }
+  #easy .easy {
+    flex-direction: column;
+  }
+  #easy .easy--tittle p {
+    width: 400px;
+  }
+  #access .access {
+    flex-direction: column;
+  }
+  #access .access--tittle h1 {
+    padding: 20px 0;
+  }
+  #tittle .tittle--word p {
+    width: 150px;
+  }
+  #tittle .tittle--word h1 {
+    font-size: 18px;
+    width: 150px;
+  }
+  #about .about h1 {
+    font-size: 26px;
+    width: 400px;
+  }
+  #about .about--svg__star h2 {
+    width: 400px;
+  }
+  #disk .disk--number__plus p {
+    width: 100px;
+  }
+  #disk .disk h3 {
+    font-size: 28px;
+    padding: 0 0 100px 100px;
+  }
+  #card .card h1 {
+    font-size: 25px;
+    padding: 150px 0 100px 200px;
+  }
+  #card.block {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  #web .web--site {
+    padding: 40px 55px;
+  }
+  #footer .footer--word__tittle {
+    padding: 10px 0;
+    font-size: 15px;
+  }
+  #page .page--block h1 {
+    font-size: 35px;
+    width: 80%;
+  }
+  #card .card--block {
+    flex-direction: column;
+  }
+  #page .page--block h1 {
+    font-size: 30px;
+  }
+
+}
+
+@media (max-width: 576px) {
+  .burger{
+    display: block;
+  }
+  #header .header--menu{
+    padding: 0 15px;
+    font-weight: 400;
+    font-size: 17px;
+    display: none;
+  }
+  #hero .hero--tittle h1 {
+    width: 400px;
+    font-size: 35px;
+  }
+  #hero .hero--tittle__button--btn {
+    margin: 0 0 50px 50px;
+  }
+  #block .block p {
+    width: 300px;
+  }
+  #block .block h1 {
+    font-size: 25px;
+  }
+  #icons .icons--icon p {
+    font-size: 14px;
+  }
+  #icons .icons--icon {
+    padding: 0 0 20px 100px;
+  }
+  #access .access--img {
+    width: 350px;
+  }
+  #access .access--tittle h1 {
+    font-size: 30px;
+    width: 350px;
+  }
+  #slider .slider h2 {
+    font-size: 27px;
+  }
+  #tittle .tittle {
+    padding: 20px 100px;
+  }
+  #tittle .tittle--word p {
+    width: 120px;
+  }
+  #about .about h1 {
+    font-size: 20px;
+    width: 300px;
+  }
+  #about .about--svg__star h2 {
+    font-size: 18px;
+    width: 300px;
+  }
+  #disk .disk--number__plus h2 {
+    font-size: 25px;
+  }
+  #disk .disk--number__plus p {
+    width: 80px;
+  }
+  #disk .disk h3 {
+    font-size: 20px;
+    width: 300px;
+  }
+  #footer .footer--word__tittle {
+    font-size: 10px;
+  }
+  #web .web--site__inter {
+    padding: 20px 10px;
+  }
+  #web .web--site {
+    padding: 20px 10px;
+  }
+  #disk .disk--number {
+    padding: 150px 0 80px 0;
+  }
+  #card .card h1 {
+    font-size: 25px;
+    padding: 60px 0 80px 200px;
+  }
+  #page .page--block h1 {
+    font-size: 30px;
+    line-height: 50px;
+  }
+  #page .page--block__button--btn {
+    margin: 30px 0;
+  }
+  #easy .easy--img {
+    width: 450px;
+  }
+  #icons .icons--icon {
+    padding: 0 0 20px 40px;
+  }
+
+
+}
+
+@media (max-width: 450px) {
+  #hero .hero--tittle h1 {
+    width: 300px;
+    font-size: 25px;
+  }
+  #hero .hero {
+    padding: 10px 0 100px 0;
+  }
+  #hero .hero--tittle p {
+    font-size: 14px;
+    width: 300px;
+    padding: 20px 0 20px 50px;
+  }
+  #hero .hero--tittle__button--btn {
+    padding: 10px 15px;
+  }
+  #block .block p {
+    width: 200px;
+  }
+  #block .block h1 {
+    font-size: 20px;
+  }
+  #design .design--img {
+    width: 350px;
+  }
+  #design .design--tittle h1 {
+    font-size: 23px;
+    line-height: 40px;
+  }
+  #design .design--tittle p {
+    width: 300px;
+  }
+  #easy .easy--img {
+    width: 400px;
+  }
+  #access .access--img {
+    width: 300px;
+  }
+  #access .access--tittle h1 {
+    font-size: 22px;
+    width: 200px;
+  }
+  #access .access--tittle p {
+    width: 300px;
+  }
+
+  #icons .icons {
+    width: 90%;
+  }
+  #icons .icons--icon__first--img1 {
+    width: 30%;
+  }
+  #icons .icons--icon {
+    display: flex;
+    flex-direction: column;
+  }
+  #icons .icons--icon {
+    display: flex;
+    flex-direction: column;
+  }
+  #easy .easy--tittle p {
+    width: 200px;
+  }
+  #web .web--site {
+    display: flex;
+    flex-direction: column;
+    padding: 33px 134px;
+    width: 30%;
+    align-content: center;
+  }
+  #tittle .tittle {
+    display: flex;
+    flex-direction: column;
+    /* padding: 20px 83px; */
+    /* width: 100%; */
+  }
+  #tittle .tittle--word p {
+    width: 100%;
+  }
+  #about .about--svg__star h2 {
+    font-size: 13px;
+    width: 258px;
+  }
+  #about .about--svg__coma2 {
+    padding: 3px 0 0 0;
+  }
+  #easy .easy--img {
+    width: 343px;
+  }
+
+}
+@media (max-width: 414px) {
+  #disk .disk h3 {
+    font-size: 16px;
+    width: 150px;
+  }
+  #hero .hero--tittle__button--img {
+    padding: 0px 0 0 70px;
+  }
+  #design .design--img {
+    width: 298px;
+  }
+  #easy .easy {
+    padding: 52px 0 91px 35px;
+  }
+  #access .access--img {
+    width: 239px;
+  }
+  #easy .easy--img {
+    width: 250px;
+  }
+  #about .about h1 {
+    font-size: 15px;
+    width: 146px;
+    /* line-break: anywhere; */
+    line-height: 21px;
+  }
+  #disk .disk--number {
+    display: flex;
+    padding: 90px 0 80px 0;
+    flex-direction: column;
+  }
+  #disk .disk--number__plus p {
+    width: 167px;
+  }
+  #disk .disk--number__plus h2 {
+    padding: 20px 0;
+  }
+  #card .card--block__photo--img {
+    width: 79%;
+  }
+
+}
+@media (max-width: 390px) {
+  #page .page--block h1 {
+  font-size: 20px;
+  line-height: 40px;
+}
+  #footer .footer--word__tittle {
+    font-size: 5px;
+    line-height: 5px;
+  }
+  #about .about--svg__star h2 {
+    font-size: 11px;
+    line-height: 20px;
+    width: 249px;
+  }
+  #about .about--svg__coma2 {
+    padding: 0px 0 0 0;
+  }
+  #slider .slider h2 {
+    font-size: 20px;
+  }
+  #footer .footer--word {
+    font-size: 9px;
+  }
+  #page .page {
+    padding: 38px 0 100px 90px;
+  }
+  #card .card h1 {
+    font-size: 15px;
+    padding: 2px 0 32px 71px;
+  }
+  #block .block p {
+    padding: 30px 0 50px 80px;
+    width: 170px;
+  }
+  #hero .hero--tittle p {
+    font-size: 10px;
+    width: 272px;
+    padding: 6px 0 20px 50px;
+  }
+  #design .design--img {
+    width: 285px;
+  }
+  #design .design--tittle h1 {
+    font-size: 14px;
+    line-height: 37px;
+  }
+  #about .about--svg__coma2 {
+    padding: 0 0 0 0;
+    font-size: 39px;
+  }
+
+  #about .about--svg__coma {
+    display: none;
+  }
+  #about .about--svg__coma2 {
+    display: none;
+  }
+  #hero .hero--tittle h1 {
+    width: 273px;
+    font-size: 18px;
+  }
+  #access .access--tittle h1 {
+    font-size: 17px;
+    padding: 0 40px;
+  }
+  #access .access--tittle p {
+    width: 291px;
+    padding: 0 30px;
+  }
+}
+
+@media (max-width: 380px) {
+  #design .design--img {
+    width: 256px;
+  }
+  #about .about--svg__star p {
+    font-size: 13px;
+  }
+  #block .block h1 {
+    font-size: 16px;
+  }
+  #design .design--tittle p {
+    width: 243px;
+  }
+  #card .card--block__photo p {
+    padding: 15px 90px 15px 0;
+  }
+
+}
+
+
+
